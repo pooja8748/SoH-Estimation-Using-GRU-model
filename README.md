@@ -7,7 +7,7 @@ Difference between SOC and SOH
 
 ## GRU Model For SOH Estimation
 
-![image](https://github.com/pooja8748/SoH-Estimation-Using-GRU-model/assets/130728514/cdab8e7b-72e1-4c83-b9ec-05a0b7dfb13e)
+![image](https://github.com/pooja8748/SoH-Estimation-Using-GRU-model/assets/130728514/8f9c184b-c65e-49c1-a092-01f31a2a547f)
 
 The inclusion of the update gate and reset gate in the GRU architecture serves several purposes, such as mitigating the issue of gradient dispersion, enhancing the model’s long- term memory capacity, and reducing computational complexity.
 The reset gate (rt) ensures that the information from the previous time step is retained in the candidate hidden state of the current time step. 
