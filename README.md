@@ -14,3 +14,6 @@ The reset gate (rt) ensures that the information from the previous time step is 
 On the other hand, the update gate (Zt) quant ifies the likelihood of preserving the information from the previous time step in the current time step. 
 The learning rate has a significant role in the learning and generalization performance of the GRU network in the context of battery SOH estimation
 
+![MAE](https://github.com/pooja8748/SoH-Estimation-Using-GRU-model/assets/130728514/3b4b375d-25e0-4e99-8364-1e984a36510d)
+![mAp](https://github.com/pooja8748/SoH-Estimation-Using-GRU-model/assets/130728514/f73ebb5f-0004-44ce-973f-535bda966bf7)
+![RMSE](https://github.com/pooja8748/SoH-Estimation-Using-GRU-model/assets/130728514/71c1d5f7-1d66-4652-bc8a-172af3732938)
